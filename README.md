@@ -1,2 +1,8 @@
 # CS-250_Final
 CS-250 Final Project
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+When thinking about user needs I personally believe it's best to think about how you would want to use a program. From there incorporate the phsyical needs the client gave you as well, from there you should have a very well rounded thought out system. Creating user stories helps with this because, having all of your thoughts and the clients needs in front of you as a developer as your working, is a good reminder as to how the system should work and the way that it accomplishes said task.
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+Agile development is all about being flexible, and the ability to change directions quickly and efficiently, should a clients needs change in the middle of development.(To an extent of course, shutting down an entire project after a few months frequently is never good.) We as developers should be able to adapt to those changing needs to the best of our ability.
+**What does it mean to be a good team member in software development?**
+Being an open and honest communicator. In agile programming it is up to each team member individually to take responsiblity for their work, and to meet deadlines. If someone on the team is lying or being lazy, nothing will get done. Being able to keep a consistant steady pace in terms of productivity and keeping in constant communication with team members, espcially on larger projects is key.
